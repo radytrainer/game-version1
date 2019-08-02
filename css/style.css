@@ -1,0 +1,24 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+button {
+    padding: 10px;
+    width: 100px;
+    border:none;
+    cursor: pointer;
+    background: teal;
+    color:#fff;
+    margin-bottom: 50px;
+}
+#result {
+    color: #fff;
+    padding: 60px;
+    border-radius: 10px;
+    font-size: 40px;
+    transition: 5s;
+    text-align: center;
+    font-weight: 700;
+    
+}
